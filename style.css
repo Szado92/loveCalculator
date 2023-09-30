@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image:url("./h1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#content-box {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(236, 56, 56);
+    padding: 20px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+
+#calculate {
+    height: 50px;
+    width: 150px;
+
+    background-color: pink;
+    color: red;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+
+#result-percentage {
+    font-size: 50px;
+    color: goldenrod;
+}
+
+#your {
+    font-size: 20px;
+}
+#crush {
+    font-size: 20px;
+}
